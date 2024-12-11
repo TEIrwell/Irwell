@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "ddaa4fac1269fb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "125ae0b684a564a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a9f33409022c964",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Music/pngs/Song 'Heading Back Soon' Prototype.png"
+              }
+            }
+          },
+          {
+            "id": "841ac289b4ce5ca1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Music/pngs/Random Idea 2.png"
+              }
+            }
+          },
+          {
+            "id": "94122e2428bc9e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irwell/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a804af921dc5e20f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4acd4ccaa75c5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662d3ecb037e4796",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "679db65f0ea9e061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0a42ff8fedd1995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1437d94bfab75b09",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3f98b0ab5b059d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3088907fec465ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Irwell/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ebeed71b28c677f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Irwell/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d01d13c8afdb1f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20a052420c9e2414",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Irwell/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94122e2428bc9e6f",
+  "lastOpenFiles": [
+    "Irwell/What Needs Doing - Game.md",
+    "Irwell/Untitled.md",
+    "Music/pngs/Song 'Heading Back Soon' Prototype.png",
+    "Music/pngs/Random Idea 2.png",
+    "Music/Band Names & Album Names & Album Art.md",
+    "Music/pngs/desvu3.jpg",
+    "Music/pngs",
+    "Music/pngs/desvu2.jpg",
+    "Music/pngs/desvu1.jpg",
+    "Music/Random ideas for including in songs.md",
+    "Music/Random Lyrics (Inspiration).md",
+    "Music/pngs/Song 'Moaning at Midnight' Prototype.png",
+    "Music/Song 'Moaning at Midnight'.md",
+    "Music/pngs/Random Idea 1.png",
+    "Music/Song 'Autumn'.md",
+    "Music/Song 'Mayday UK'.md",
+    "Music/Song 'Heading Back Soon & Dés Vu'.md",
+    "Music/Song 'Hamlet'.md",
+    "Music/Song 'Dagger'.md",
+    "Music/Song 'Dès Vu'.md",
+    "Book Drafts/Untitled.md",
+    "Book Drafts/Draft - Bookcover - Syndicalism Book.png",
+    "Music/Untitled",
+    "Music"
+  ]
+}
